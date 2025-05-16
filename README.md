@@ -101,11 +101,3 @@ This will generate plots comparing uniform and OT-based quantization performance
 If you use this code in your research, please cite our work:
 
 [Citation information will be added upon publication]
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-This work builds upon several previous works in the fields of flow matching and neural network quantization. We thank the authors of these works for making their code available.
