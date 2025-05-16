@@ -1,0 +1,9 @@
+{
+  "model": "inceptionv3",
+  "dataset": "fmnist",
+  "trainable_params": 56714,
+  "train_loss": 0.6166967803637187,
+  "train_accuracy": 0.9521833333333334,
+  "test_accuracy": 0.9362,
+  "test_loss": 0.2587083016872406
+}

@@ -1,0 +1,9 @@
+{
+  "model": "resnet18",
+  "dataset": "mnist",
+  "trainable_params": 14730,
+  "train_loss": 0.5160308990478516,
+  "train_accuracy": 0.9977166666666667,
+  "test_accuracy": 0.9955,
+  "test_loss": 0.10972699002027511
+}
